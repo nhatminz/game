@@ -1,0 +1,352 @@
+# depslib dependency file v1.0
+1620234335 source:c:\development\game\main.cpp
+	"Game_Utils.h"
+	"Texture.h"
+	"Character.h"
+	"Enemy.h"
+	"Text.h"
+	"Icon.h"
+	"EnemyArray.h"
+	"Collision.h"
+	"Button.h"
+
+1619323114 source:c:\development\game\commonfunc.cpp
+	"CommonFunc.h"
+
+1619323114 c:\development\game\commonfunc.h
+	<iostream>
+	<fstream>
+	<SDL.h>
+	<vector>
+	<iomanip>
+	<sstream>
+	<cmath>
+	<string>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1618582088 source:c:\development\game\baseobject.cpp
+	"BaseObject.h"
+
+1619323818 c:\development\game\baseobject.h
+	"Game_Utils.h"
+
+1619432123 c:\development\game\mainobject.h
+	"Game_Utils.h"
+	"Texture.h"
+	"BulletObject.h"
+
+1619432142 source:c:\development\game\mainobject.cpp
+	"MainObject.h"
+
+1619359630 source:c:\development\game\bulletoject.cpp
+	"BulletObject.h"
+
+1619431591 c:\development\game\bulletobject.h
+	"Texture.h"
+	"Game_Utils.h"
+
+1619287272 source:c:\development\game\threatobject.cpp
+	"ThreatObject.h"
+
+1619238186 c:\development\game\threatobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	"MainObject.h"
+	"Effect.h"
+
+1615737002 source:c:\development\game\timer.cpp
+	<iostream>
+	"Timer.h"
+	"CommonFunc.h"
+
+1615736990 c:\development\game\timer.h
+
+1615916701 source:c:\development\test.cpp
+	<iostream>
+
+1617460800 source:c:\development\game\dot.cpp
+	"Dot.h"
+
+1617460674 c:\development\game\dot.h
+	<iostream>
+	"CommonFunc.h"
+
+1617869996 source:c:\development\game\gui.cpp
+	<iostream>
+	"GUI.h"
+
+1617523767 c:\development\game\gui.h
+	"CommonFunc.h"
+
+1619323841 c:\development\game\text.h
+	"Game_Utils.h"
+
+1617893920 source:c:\development\game\score.cpp
+	"Score.h"
+
+1617893920 c:\development\game\score.h
+	"CommonFunc.h"
+	"Text.h"
+
+1618582088 source:c:\development\game\text.cpp
+	"Text.h"
+
+1619239485 source:c:\development\game\effect.cpp
+	"Effect.h"
+
+1619239485 c:\development\game\effect.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1618582088 source:c:\users\cuongrau\desktop\game\baseobject.cpp
+	"BaseObject.h"
+
+1618582088 c:\users\cuongrau\desktop\game\baseobject.h
+	"CommonFunc.h"
+
+1618682160 c:\users\cuongrau\desktop\game\commonfunc.h
+	<iostream>
+	<SDL.h>
+	<vector>
+	<iomanip>
+	<sstream>
+	<cmath>
+	<string>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1618645653 source:c:\users\cuongrau\desktop\game\bulletoject.cpp
+	"BulletObject.h"
+
+1618645666 c:\users\cuongrau\desktop\game\bulletobject.h
+	"BaseObject.h"
+	"CommonFunc.h"
+
+1618582088 source:c:\users\cuongrau\desktop\game\commonfunc.cpp
+	"CommonFunc.h"
+
+1618582088 source:c:\users\cuongrau\desktop\game\effect.cpp
+	"Effect.h"
+
+1618582088 c:\users\cuongrau\desktop\game\effect.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1618682024 source:c:\users\cuongrau\desktop\game\main.cpp
+	<iostream>
+	"CommonFunc.h"
+	"BaseObject.h"
+	"MainObject.h"
+	"ThreatObject.h"
+	"Text.h"
+	"Effect.h"
+
+1618582088 c:\users\cuongrau\desktop\game\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1618643450 c:\users\cuongrau\desktop\game\threatobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1618582088 c:\users\cuongrau\desktop\game\text.h
+	"CommonFunc.h"
+
+1618645684 source:c:\users\cuongrau\desktop\game\mainobject.cpp
+	"MainObject.h"
+
+1618582088 source:c:\users\cuongrau\desktop\game\text.cpp
+	"Text.h"
+
+1618645653 source:c:\users\cuongrau\desktop\game\threatobject.cpp
+	"ThreatObject.h"
+
+1619589754 source:c:\development\game\game_utils.cpp
+	"Game_Utils.h"
+	"Enemy.h"
+
+1620234548 c:\development\game\game_utils.h
+	<iostream>
+	<fstream>
+	<SDL.h>
+	<vector>
+	<iomanip>
+	<sstream>
+	<cmath>
+	<string>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1620233796 source:c:\development\game\icon.cpp
+	"Icon.h"
+
+1620234335 c:\development\game\icon.h
+	"Game_Utils.h"
+	"Texture.h"
+
+1620233894 source:c:\development\game\enemy.cpp
+	"Enemy.h"
+
+1620233857 c:\development\game\enemy.h
+	"Game_Utils.h"
+	"Texture.h"
+	"Bullet.h"
+	"Character.h"
+	"Icon.h"
+
+1620232029 source:c:\development\game\enemyarray.cpp
+	"EnemyArray.h"
+
+1619546179 c:\development\game\enemyarray.h
+	"Enemy.h"
+	"Game_Utils.h"
+
+1620234229 c:\development\game\texture.h
+	"Game_Utils.h"
+
+1620233769 source:c:\development\game\texture.cpp
+	"Texture.h"
+
+1620234021 source:c:\development\game\character.cpp
+	"Character.h"
+
+1620234229 c:\development\game\character.h
+	"Game_Utils.h"
+	"Texture.h"
+	"Bullet.h"
+
+1620233695 source:c:\development\game\bullet.cpp
+	"Bullet.h"
+
+1620234548 c:\development\game\bullet.h
+	"Texture.h"
+	"Game_Utils.h"
+
+1619580338 c:\development\game\collision.h
+	"Enemy.h"
+	"Character.h"
+	"Bullet.h"
+	"Icon.h"
+	"Game_Utils.h"
+
+1620234042 source:c:\development\game\collision.cpp
+	"Collision.h"
+
+1620234112 source:c:\development\game\button.cpp
+	"Button.h"
+
+1620234091 c:\development\game\button.h
+	"Texture.h"
+	"Game_Utils.h"
+	"Enemy.h"
+	"Icon.h"
+	"Character.h"
+	"Bullet.h"
+
+1709283531 source:d:\code\gamesdl2\bulletheaven\bullet.cpp
+	"Bullet.h"
+
+1709283531 d:\code\gamesdl2\bulletheaven\bullet.h
+	"Texture.h"
+	"Game_Utils.h"
+
+1709283531 d:\code\gamesdl2\bulletheaven\texture.h
+	"Game_Utils.h"
+
+1709283531 d:\code\gamesdl2\bulletheaven\game_utils.h
+	<iostream>
+	<fstream>
+	<SDL.h>
+	<vector>
+	<iomanip>
+	<sstream>
+	<cmath>
+	<string>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1709283531 source:d:\code\gamesdl2\bulletheaven\button.cpp
+	"Button.h"
+
+1709283531 d:\code\gamesdl2\bulletheaven\button.h
+	"Texture.h"
+	"Game_Utils.h"
+	"Enemy.h"
+	"Icon.h"
+	"Character.h"
+	"Bullet.h"
+
+1709283531 d:\code\gamesdl2\bulletheaven\enemy.h
+	"Game_Utils.h"
+	"Texture.h"
+	"Bullet.h"
+	"Character.h"
+	"Icon.h"
+
+1709283531 d:\code\gamesdl2\bulletheaven\character.h
+	"Game_Utils.h"
+	"Texture.h"
+	"Bullet.h"
+
+1709283531 d:\code\gamesdl2\bulletheaven\icon.h
+	"Game_Utils.h"
+	"Texture.h"
+
+1709283531 source:d:\code\gamesdl2\bulletheaven\character.cpp
+	"Character.h"
+
+1709283531 source:d:\code\gamesdl2\bulletheaven\collision.cpp
+	"Collision.h"
+
+1709283531 d:\code\gamesdl2\bulletheaven\collision.h
+	"Enemy.h"
+	"Character.h"
+	"Bullet.h"
+	"Icon.h"
+	"Game_Utils.h"
+
+1709283531 source:d:\code\gamesdl2\bulletheaven\enemy.cpp
+	"Enemy.h"
+
+1709283531 source:d:\code\gamesdl2\bulletheaven\enemyarray.cpp
+	"EnemyArray.h"
+
+1709283531 d:\code\gamesdl2\bulletheaven\enemyarray.h
+	"Enemy.h"
+	"Game_Utils.h"
+
+1709283531 source:d:\code\gamesdl2\bulletheaven\game_utils.cpp
+	"Game_Utils.h"
+	"Enemy.h"
+
+1709283531 source:d:\code\gamesdl2\bulletheaven\icon.cpp
+	"Icon.h"
+
+1709283532 source:d:\code\gamesdl2\bulletheaven\main.cpp
+	"Game_Utils.h"
+	"Texture.h"
+	"Character.h"
+	"Enemy.h"
+	"Text.h"
+	"Icon.h"
+	"EnemyArray.h"
+	"Collision.h"
+	"Button.h"
+
+1709283531 d:\code\gamesdl2\bulletheaven\text.h
+	"Game_Utils.h"
+
+1709283531 source:d:\code\gamesdl2\bulletheaven\text.cpp
+	"Text.h"
+
+1709283531 source:d:\code\gamesdl2\bulletheaven\texture.cpp
+	"Texture.h"
+
