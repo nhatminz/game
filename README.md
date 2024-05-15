@@ -43,5 +43,5 @@ Sử dụng chuột để di chuyển, nhấn chuột trái để bắn đạn
 <a name = "ho-tro"/>
 
 ### V, Tham Khảo 
--lazyfoo.net
--Phát triển phần mềm 123A-Z: https://www.youtube.com/watch?v=q1WzniyeGTU&list=PLR7NDiX0QsfTIEQUeYCfc2MyCquX0ig9V
+- lazyfoo.net
+- Phát triển phần mềm 123A-Z: https://www.youtube.com/watch?v=q1WzniyeGTU&list=PLR7NDiX0QsfTIEQUeYCfc2MyCquX0ig9V
